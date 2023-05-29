@@ -1,1 +1,6 @@
-
+theme: jekyll-theme-slate 
+title: This is the YY's personal homepage, from media, communication and tourism studies in Hokkaido University
+plugins: 
+    - jemoji 
+url: "YY2333333.github.io" 
+markdown: kramdown
