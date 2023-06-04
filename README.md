@@ -1,27 +1,24 @@
-# YY2333333.github.io
-Hello! Welcome to the new world💩
-# My Personal Website
+
+Hello! Welcome to my personal webpage! 💩
 
 ## About Me💩
-## <133623289+YY2333333@users.noreply.github.com>
-
-- HTML/CSS/JavaScript
-- Python
-- Java
-- SQL
+I am currently in my first year of the Master's program, specializing in Tourism and Creative Industries.
+My passion lies in the art of cinematography and the process of bringing stories to life through visual media.
 
 ## Projects💩
+Beijing International Design Week Project Assistant:
 
-### Website Development💩
+Worked alongside a team of designers and artists in organizing exhibitions.
+Assisted in coordinating workshops and managing logistics for international participants.
+Contributed to the seamless execution of the event, ensuring an immersive experience for attendees.
 
-- [My Personal Blog](https://example.com): A static website built using HTML/CSS/JavaScript, showcasing my personal projects and skills.
-- [E-commerce Website](https://example.com): A dynamic website built using Java and SQL, featuring functionalities like shopping cart, order management, and product categorization.
-
-### Open Source Contributions💩
-
-- [Python Web Scraping Framework](https://example.com): Contributed to an open-source project by fixing issues and adding new features.
+## Research Topic
+In my graduate studies, I am conducting research on the significance of Kamuylumina in cultural inheritance. This research explores how Kamuylumina plays a pivotal role in the preservation and promotion of cultural heritage. By examining its impact, I aim to shed light on the importance of Kamuylumina in preserving cultural traditions and fostering community engagement.
 
 ## Contact Me💩
+If you have any inquiries or would like to collaborate on a project, I would be delighted to hear from you. Please feel free to reach out to me via email at wyy871666710@gmail.com
+
+Thank you for visiting my webpage and taking the time to explore my work. Stay tuned for updates on my latest projects and research findings!
 
 
 
