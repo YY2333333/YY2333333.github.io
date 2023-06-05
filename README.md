@@ -19,7 +19,7 @@ In my graduate studies, I am conducting research on the significance of Kamuylum
 If you have any inquiries or would like to collaborate on a project, I would be delighted to hear from you. Please feel free to reach out to me via email at wyy871666710@gmail.com
 
 Thank you for visiting my webpage and taking the time to explore my work. Stay tuned for updates on my latest projects and research findings!
-![image](https://github.com/YY2333333/YY2333333.github.io/blob/main/%E6%9C%AA%E6%A0%87%E9%A2%98-1.png))
+![image](https://github.com/YY2333333/YY2333333.github.io/blob/main/%E6%9C%AA%E6%A0%87%E9%A2%98-1%E5%89%AF%E6%9C%AC%E5%89%AF%E6%9C%AC.png)
 
 
 
