@@ -15,10 +15,17 @@ Contributed to the seamless execution of the event, ensuring an immersive experi
 ## Research Topic
 In my graduate studies, I am conducting research on the significance of Kamuylumina in cultural inheritance. This research explores how Kamuylumina plays a pivotal role in the preservation and promotion of cultural heritage. By examining its impact, I aim to shed light on the importance of Kamuylumina in preserving cultural traditions and fostering community engagement.
 
+## Experience
+### Bachelor's Degree in
+- University:Communication University Of China
+- Major：Cinematography
+- Dates：2016 - 2020
+
 ## Contact Me💩
 If you have any inquiries or would like to collaborate on a project, I would be delighted to hear from you. Please feel free to reach out to me via email at wyy871666710@gmail.com
 
 Thank you for visiting my webpage and taking the time to explore my work. Stay tuned for updates on my latest projects and research findings!
+
 !(https://github.com/YY2333333/YY2333333.github.io/blob/main/%E6%9C%AA%E6%A0%87%E9%A2%98-1.png)
 
 
